@@ -180,8 +180,6 @@ footer{
 
 #work .photo img:nth-child(5){
     grid-area: i5;
-    display: inline-flex;
-    align-self: end;
 }
 
 
